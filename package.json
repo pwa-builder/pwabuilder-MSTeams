@@ -4,7 +4,7 @@
   "description": "Mac OS platform template",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pwa-builder/pwabuilder-MSTeams.git"
+    "url": "https://github.com/pwa-builder/pwabuilder-MacOS.git"
   },
   "engines": {
     "node": ">=0.12.0"
