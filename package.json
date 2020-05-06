@@ -31,6 +31,7 @@
     "MacOS"
   ],
   "dependencies": {
+    "archiver": "^4.0.1",
     "pwabuilder-lib": "^2.0.4-RC.4",
     "q": "^1.4.1"
   },
