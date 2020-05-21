@@ -2,6 +2,8 @@
   "msteams": {
     "name": "Name",
     "longDescription": "longDescription",
-    "shortDescription": "shortDescription"
+    "shortDescription": "shortDescription",
+    "privacyUrl": "www.site.com/privacy",
+    "termsOfUseUrl": "www.site.com/terms"
   }
 }
