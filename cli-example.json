@@ -1,6 +1,6 @@
 {
   "msteams": {
-    "name": "Name",
+    "publisherName": "publisherName",
     "longDescription": "longDescription",
     "shortDescription": "shortDescription",
     "privacyUrl": "www.site.com/privacy",
