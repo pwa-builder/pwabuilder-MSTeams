@@ -1,0 +1,9 @@
+{
+  "msteams": {
+    "publisherName": "publisherName",
+    "longDescription": "longDescription",
+    "shortDescription": "shortDescription",
+    "privacyUrl": "www.site.com/privacy",
+    "termsOfUseUrl": "www.site.com/terms"
+  }
+}
