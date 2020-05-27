@@ -1,7 +1,7 @@
 {
   "name": "pwabuilder-msteams",
-  "version": "0.0.1",
-  "description": "Mac OS platform template",
+  "version": "0.0.2",
+  "description": "Microsoft Teams platform template",
   "repository": {
     "type": "git",
     "url": "https://github.com/pwa-builder/pwabuilder-MSTeams.git"
