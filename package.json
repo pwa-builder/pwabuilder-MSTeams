@@ -31,7 +31,7 @@
   ],
   "dependencies": {
     "archiver": "^4.0.1",
-    "pwabuilder-lib": "^2.0.6",
+    "pwabuilder-lib": "^2.0.7",
     "image-size": "^0.8.3",
     "q": "^1.4.1"
   },
